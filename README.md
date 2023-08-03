@@ -1,39 +1,28 @@
 # git_lesson
 
-dev1 - 
+Artyom - 
 
 
-dev2 - 
+Юлия В. - 
 
 
-dev3 - 
+Андрей - 
 
 
-dev3 - 
+Юленька И. - 
 
 
-dev4 - 
+Roksana - 
 
 
-dev5 - 
+Chougan - 
 
 
-dev6 - 
+Anna - 
 
 
-dev7 - 
+Ekaterina - 
 
 
-dev8 - 
+Admin - 
 
-
-dev9 - 
-
-
-dev10 - 
-
-
-dev11 - 
-
-
-dev12 - 
