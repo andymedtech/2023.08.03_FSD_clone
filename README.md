@@ -24,5 +24,5 @@ Anna -
 Ekaterina - 
 
 
-Admin - Welcome to the club
+Admin - Welcome to the club, friends
 
