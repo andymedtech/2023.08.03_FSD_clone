@@ -1,6 +1,6 @@
 # git_lesson
 
-Artyom - 
+Artyom - Hello!
 
 
 Юлия В. - Варкентин
