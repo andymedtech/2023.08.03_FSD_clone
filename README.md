@@ -12,7 +12,7 @@ Artyom - Hello!
 Юленька И. - 
 
 
-Roksana - 
+Roksana - Do not give up
 
 
 Chougan - Hello World !!
